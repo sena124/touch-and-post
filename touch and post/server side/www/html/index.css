@@ -1,0 +1,14 @@
+p.box {
+   margin-top: 50px;
+   border-bottom: 2px dotted red;
+}
+
+.box-A {
+  float: left;
+  width: 120px; 
+  height: 20px; 
+}
+.box-B {
+  float: left; 
+  width: 60%;
+}
